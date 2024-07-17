@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Spine
+  m_EditorClassIdentifier: 
+  m_GroupName: Spine
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 14ffe21a2606fe04b81501e545460ea5
+  m_SerializeEntries:
+  - m_GUID: 15876427ecf770045b6d9db5c5965ab1
+    m_Address: Spine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02c5345a9fb843743b29a4e3b4a10899
+    m_Address: spine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e623702042489c644ba312536b28f3a7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2f2187ef0767fc24da508b6c860487f4, type: 2}
+    - {fileID: 11400000, guid: e2e4a109270600241a9d8b0604d1dde8, type: 2}

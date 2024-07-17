@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GrandWars
+  m_EditorClassIdentifier: 
+  m_GroupName: GrandWars
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2e574bc14b9e5044a979040233e0478c
+  m_SerializeEntries:
+  - m_GUID: 6013142936b9dd84692ae59fb41b3a41
+    m_Address: GrandWars
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce70859b0d120704ca5952751f2e9c87
+    m_Address: grandwars
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e623702042489c644ba312536b28f3a7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8d5ac004bd61e9c4089f987d575b086c, type: 2}
+    - {fileID: 11400000, guid: c7609e2bf43188a4c844f56892b03a46, type: 2}
