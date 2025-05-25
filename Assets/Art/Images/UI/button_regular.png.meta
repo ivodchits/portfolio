@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 233b8797e63491e45a785595ff35e7e9
+guid: f36656753d671794db82f9fe94a0440d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8291665944365285487
-    second: LinkedIn_logo_initials_0
+      213: 3721117274759626771
+    second: button_regular_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 25, y: 0, z: 24, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -126,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LinkedIn_logo_initials_0
+      name: button_regular_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 2
-        width: 1022
-        height: 1020
+        x: 0
+        y: 0
+        width: 298
+        height: 109
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f60c81ace3ae11370800000000000000
-      internalID: 8291665944365285487
+      spriteID: 3100e91327014a330800000000000000
+      internalID: 3721117274759626771
       vertices: []
       indices: 
       edges: []
@@ -152,7 +152,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      LinkedIn_logo_initials_0: 8291665944365285487
+      button_regular_0: 3721117274759626771
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

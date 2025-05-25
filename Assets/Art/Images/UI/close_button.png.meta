@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 233b8797e63491e45a785595ff35e7e9
+guid: a410f4f0ae8496d46af6767125beebee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8291665944365285487
-    second: LinkedIn_logo_initials_0
+      213: 6220736335902542612
+    second: close_button_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LinkedIn_logo_initials_0
+      name: close_button_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 2
-        width: 1022
-        height: 1020
+        x: 0
+        y: 0
+        width: 70
+        height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f60c81ace3ae11370800000000000000
-      internalID: 8291665944365285487
+      spriteID: 41b06d61dbe745650800000000000000
+      internalID: 6220736335902542612
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      LinkedIn_logo_initials_0: 8291665944365285487
+      close_button_0: 6220736335902542612
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
