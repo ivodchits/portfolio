@@ -16,7 +16,7 @@ namespace Showcase
             if (_transform.position.x < _minX && horizontal < 0 || _transform.position.x > _maxX && horizontal > 0)
                 horizontal = 0;
 
-            _rigidbody.velocityX = horizontal * _speed;
+            _rigidbody.linearVelocityX = horizontal * _speed;
 
             if (Mathf.Abs(horizontal) > 0.1f)
             {
